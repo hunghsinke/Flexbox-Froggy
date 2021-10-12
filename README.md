@@ -39,3 +39,9 @@ CSS Flexbox practice
     flex-wrap: wrap-reverse;
     align-content: space-between;
     justify-content: center;
+    
+    or 
+    
+    flex-flow:column-reverse wrap-reverse;
+    justify-content:center;
+    align-content:space-between;
